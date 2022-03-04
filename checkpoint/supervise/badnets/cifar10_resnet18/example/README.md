@@ -1,0 +1,1 @@
+Download latest_model.pt from [Dropbox](https://www.dropbox.com/s/equ6iia9wdnnied/latest_model.pt?dl=0) (md5sum: `380452f6fd2f5ba47b5939ac0825af6e`).
